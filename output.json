@@ -1,0 +1,40 @@
+{
+    "clothes": [
+        {
+            "title": "Midi satin skirt",
+            "price": 39.99,
+            "color": "99",
+            "size": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL"
+            ]
+        },
+        {
+            "title": "Pocket tweed jacket",
+            "price": 79.99,
+            "color": "05",
+            "size": [
+                "XXS"
+            ]
+        },
+        {
+            "title": "Denim long skirt",
+            "price": 49.99,
+            "color": "TM",
+            "size": [
+                "ninguno"
+            ]
+        },
+        {
+            "title": "Leather-effect straight trousers",
+            "price": 45.99,
+            "color": "99",
+            "size": [
+                "ninguno"
+            ]
+        }
+    ]
+}
