@@ -1,0 +1,27 @@
+*.pyc
+
+__pycache__
+
+db.sqlite3
+.env
+
+moto_pfohe/settings/dev.py
+
+media/
+!media/.gitkeep
+
+/moto_pfohe/locale/
+locale/
+/static/
+
+# Docker volumes
+/container/*
+!/container/pg_dump/
+/container/pg_dump/*
+!/container/pg_dump/.gitkeep
+
+# code editors
+.vscode/
+.DS_Store
+
+.idea/
