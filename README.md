@@ -3,3 +3,4 @@ Using python (with or without scraping framework) i have to retrieve the informa
 
 I choose to use Beautifulsoup because solution is simple and it is not necessary from big framework.
 I've used request module to make request to the web page.
+Just new test.
